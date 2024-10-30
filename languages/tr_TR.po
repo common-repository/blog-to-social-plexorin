@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plexorin\n"
+"POT-Creation-Date: 2024-09-28 16:42+0300\n"
+"PO-Revision-Date: 2024-09-28 16:46+0300\n"
+"Last-Translator: Abbas Eren Kılıç <contact@plexorin.com>\n"
+"Language-Team: Plexorin\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings-page.php:40
+msgid "Plexorin Social Media Auto Sharing Tool Settings"
+msgstr "Plexorin Sosyal Medya Otomatik Paylaşım Aracı Ayarları"
+
+#: admin/settings-page.php:53
+msgid "Twitter Preview"
+msgstr "Twitter Önizleme"
+
+#: admin/settings-page.php:54
+msgid ""
+"There is a 300 character limit for Twitter, only the first 300 characters of "
+"the content will be shared!"
+msgstr ""
+"Twitter için 300 karakter sınırı vardır, içeriğin yalnızca ilk 300 karakteri "
+"paylaşılacaktır!"
+
+#: admin/settings-page.php:57 admin/settings-page.php:67
+#: admin/settings-page.php:78
+msgid ""
+"(Post Title) Share Your Content Automatically on Social Media with Plexorin!"
+msgstr ""
+"(Gönderi Başlığı) Plexorin ile İçeriklerinizi Sosyal Medyada Otomatik Olarak "
+"Paylaşın!"
+
+#: admin/settings-page.php:58 admin/settings-page.php:69
+#: admin/settings-page.php:80
+msgid "(Post URL) https://plexorin.com/tr/"
+msgstr "(Gönderi URL) https://plexorin.com/tr/"
+
+#: admin/settings-page.php:59 admin/settings-page.php:70
+#: admin/settings-page.php:81
+msgid "(Hashtags) #plexorin #socialmediascheduler #socialmedia"
+msgstr "(Hashtagler) #plexorin #sosyalmedyapaylaşımaracı #sosyalmedya"
+
+#: admin/settings-page.php:68 admin/settings-page.php:79
+msgid ""
+"(News Description) Connect your social media accounts to Plexorin, then add "
+"the API key created for you from the plugin settings page. Shares will be "
+"made automatically on the accounts you choose in your Plexorin account."
+msgstr ""
+"(Gönderi Açıklaması) Sosyal medya hesaplarınızı Plexorin'e bağlayın, "
+"ardından eklenti ayarları sayfasından sizin için oluşturulan API anahtarını "
+"ekleyin. Plexorin hesabınızda seçtiğiniz hesaplarda paylaşımlar otomatik "
+"olarak yapılacaktır."
+
+#: admin/settings-page.php:117
+msgid "Select users to share with:"
+msgstr "Paylaşılacak kullanıcıları seçin:"
+
+#: admin/settings-page.php:134
+msgid "Select categories to share:"
+msgstr "Paylaşmak için kategorileri seçin:"
+
+#: admin/settings-page.php:149
+msgid "Add the default header format. Valid variable: {post_title}"
+msgstr "Varsayılan başlık biçimini ekleyin. Geçerli değişken: {post_title}"
+
+#: admin/settings-page.php:160
+msgid ""
+"Add the default description format. Valid variables: {post_title}, "
+"{post_description}, {post_link}, {hashtags}"
+msgstr ""
+"Varsayılan açıklama biçimini ekleyin. Geçerli değişkenler: {post_title}, "
+"{post_description}, {post_link}, {hashtags}"
+
+#: admin/settings-page.php:175
+msgid ""
+"Add default hashtags. You must use the {hashtags} variable in the "
+"description for it to be used."
+msgstr ""
+"Varsayılan hashtag'ler ekleyin. Kullanılabilmesi için açıklamada {hashtags} "
+"değişkenini kullanmanız gerekir."
+
+#: admin/settings-page.php:188
+msgid ""
+"If a post does not have a featured image, enter a link to the default "
+"featured image to use or select an image from the media library."
+msgstr ""
+"Bir gönderinin öne çıkan görseli yoksa, kullanılacak varsayılan öne çıkan "
+"görselin bağlantısını girin veya medya kitaplığından bir görsel seçin."
+
+#: admin/settings-page.php:192
+msgid "Choose Image"
+msgstr "Resim Seç"
+
+#: admin/settings-page.php:193
+msgid "Delete Image"
+msgstr "Resim Sil"
+
+#: includes/meta-box.php:10
+msgid "Plexorin Post Settings"
+msgstr "Plexorin Gönderi Ayarları"
+
+#: includes/meta-box.php:31
+msgid "Do not share this post"
+msgstr "Bu gönderiyi paylaşma"
+
+#: includes/meta-box.php:35
+msgid "Custom Title"
+msgstr "Özel Başlık"
+
+#: includes/meta-box.php:39
+msgid "Custom Description"
+msgstr "Özel Açıklama"
+
+#: includes/meta-box.php:43
+msgid "Custom Featured Image"
+msgstr "Özel Öne Çıkan Resim"
+
+#: js/main.js:7 js/main.js:12
+msgid "[Post Title]"
+msgstr "[Post Başlığı]"
+
+#: js/main.js:13
+msgid "[Post Description]"
+msgstr "[Post Açıklaması]"
+
+#: js/main.js:14
+msgid "[Post Url]"
+msgstr "[Post URL]"
+
+#: js/main.js:15
+msgid "[Hashtags]"
+msgstr "[Hashtagler]"
+
+#: js/main.js:77
+msgid "Select or Upload Media"
+msgstr "Dosya Seçin ya da Yükleyin"
+
+#: js/main.js:79
+msgid "Use this media"
+msgstr "Bu dosyayı kullan"
